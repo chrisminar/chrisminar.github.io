@@ -9,7 +9,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 div {
-   max-height: 1200px;
+   height: 1200px;
 }
 nav ul li, footer ul li {
     display: inline;
